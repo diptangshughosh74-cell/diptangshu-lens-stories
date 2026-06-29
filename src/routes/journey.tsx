@@ -80,9 +80,9 @@ function Journey() {
         </div>
         <ol className="md:col-span-8 space-y-10 relative md:border-l md:border-border/60 md:pl-10">
           <Milestone
-            year="2018"
-            title="First roll on Howrah Bridge"
-            body="Picked up a borrowed film camera and spent a week photographing the same bridge at every hour. The beginning of a long habit."
+            year="2019"
+            title="First frames on Howrah Bridge"
+            body="Picked up a borrowed camera and spent a week photographing the same bridge at every hour. The beginning of a long habit."
           />
           <Milestone
             year="2020"
