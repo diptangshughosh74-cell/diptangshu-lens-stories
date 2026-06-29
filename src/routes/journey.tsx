@@ -127,7 +127,7 @@ function Journey() {
             <Award
               year="2024"
               title="Shortlist · India Street Photography Awards"
-              note="Category: Monochrome series"
+              note="Category: Colour street series"
             />
             <Award
               year="2023"
