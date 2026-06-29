@@ -29,7 +29,7 @@ export function SiteFooter() {
           </p>
           <ul className="space-y-2">
             <li><a href="https://instagram.com" className="hover:text-gold">Instagram</a></li>
-            <li><a href="mailto:hello@diptangshu.com" className="hover:text-gold">hello@diptangshu.com</a></li>
+            <li><a href="mailto:diptangshughosh74@gmail.com" className="hover:text-gold">diptangshughosh74@gmail.com</a></li>
             <li><span className="text-muted-foreground">Kolkata, India</span></li>
           </ul>
         </div>
