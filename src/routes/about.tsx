@@ -5,9 +5,9 @@ export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
       { title: "About — Diptangshu Ghosh, Street Photographer" },
-      { name: "description", content: "About Diptangshu Ghosh: a Kolkata-based street photographer working in monochrome, with a 35mm lens, on the rhythms of Indian streets." },
+      { name: "description", content: "About Diptangshu Ghosh: a Kolkata-based street photographer working in colour, with a 35mm lens, on the rhythms of Indian streets." },
       { property: "og:title", content: "About — Diptangshu Ghosh" },
-      { property: "og:description", content: "Kolkata-based street photographer working in monochrome." },
+      { property: "og:description", content: "Kolkata-based street photographer working in colour." },
       { property: "og:image", content: portraitImg },
     ],
   }),
