@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import portraitImg from "@/assets/portrait.jpg";
+import portraitAsset from "@/assets/portrait.jpg.asset.json";
 
 export const Route = createFileRoute("/about")({
   head: () => ({
@@ -8,7 +8,7 @@ export const Route = createFileRoute("/about")({
       { name: "description", content: "About Diptangshu Ghosh: a Kolkata-based street photographer working in colour, with a 35mm lens, on the rhythms of Indian streets." },
       { property: "og:title", content: "About — Diptangshu Ghosh" },
       { property: "og:description", content: "Kolkata-based street photographer working in colour." },
-      { property: "og:image", content: portraitImg },
+      { property: "og:image", content: portraitAsset.url },
     ],
   }),
   component: About,
@@ -20,14 +20,14 @@ function About() {
       <div className="grid md:grid-cols-12 gap-12 items-start">
         <div className="md:col-span-5 md:sticky md:top-24">
           <img
-            src={portraitImg}
-            alt="Portrait of Diptangshu Ghosh"
-            width={1024}
-            height={1280}
+            src={portraitAsset.url}
+            alt="Diptangshu Ghosh photographing"
+            width={1065}
+            height={1600}
             className="w-full h-auto"
           />
           <p className="mt-4 text-xs uppercase tracking-[0.25em] text-muted-foreground">
-            Self-portrait, College Street, 2024
+            Out photographing, 2024
           </p>
         </div>
 

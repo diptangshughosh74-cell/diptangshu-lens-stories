@@ -110,10 +110,10 @@ function Home() {
         <div className="grid md:grid-cols-12 gap-10 items-center">
           <div className="md:col-span-5">
             <img
-              src={portraitImg}
-              alt="Portrait of Diptangshu Ghosh"
-              width={1024}
-              height={1280}
+              src={portraitAsset.url}
+              alt="Diptangshu Ghosh photographing"
+              width={1065}
+              height={1600}
               loading="lazy"
               className="w-full h-auto"
             />
