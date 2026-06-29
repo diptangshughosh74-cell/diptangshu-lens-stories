@@ -71,9 +71,9 @@ function About() {
           <div className="mt-14">
             <p className="text-[11px] uppercase tracking-[0.3em] text-gold mb-5">Selected exhibitions</p>
             <ul className="space-y-4 text-sm">
-              <Exhibit year="2024" title="Walking Kolkata" venue="Harrington Street Arts Centre, Kolkata" />
-              <Exhibit year="2023" title="Of Rickshaws and Rain" venue="Group Show · Method, Mumbai" />
-              <Exhibit year="2022" title="Kumartuli Notebooks" venue="ICCR Gallery, Kolkata" />
+              <Exhibit year="2026" title="" venue="GALLERY GOLD, KOLKATA" />
+              <Exhibit year="2024" title="My Calcutta In Calcutta 2.0" venue="KOLKATA CENTER FOR CREATIVITY, KOLKATA" />
+              <Exhibit year="2024" title="Footprint Film Festival" venue="IGNCA, NEW DELHI" />
               <Exhibit year="2021" title="One Street, One Year" venue="Online · Maptia Editorial" />
             </ul>
           </div>

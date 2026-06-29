@@ -95,19 +95,19 @@ function Journey() {
             body="'One Street, One Year' published online — my first long-form essay reaching readers outside India."
           />
           <Milestone
-            year="2022"
-            title="ICCR Gallery, Kolkata"
-            body="First solo exhibition: 'Kumartuli Notebooks' — 32 silver-gelatin prints from the project."
-          />
-          <Milestone
-            year="2023"
-            title="Group show, Method · Mumbai"
-            body="Selected for 'Of Rickshaws and Rain', a group exhibition on Indian street life across three cities."
+            year="2024"
+            title="IGNCA, NEW DELHI"
+            body="First solo exhibition: 'Footprint Film Festival' — 32 silver-gelatin prints from the project."
           />
           <Milestone
             year="2024"
-            title="Harrington Street Arts Centre"
-            body="Second solo: 'Walking Kolkata' — a five-year retrospective with an accompanying limited-run zine."
+            title="KOLKATA CENTER FOR CREATIVITY, KOLKATA"
+            body="Selected for 'My Calcutta In Calcutta 2.0', a group exhibition on Indian street life across three cities."
+          />
+          <Milestone
+            year="2026"
+            title="GALLERY GOLD, KOLKATA"
+            body="Second solo: 'Montage 4.0' — a five-year retrospective with an accompanying limited-run zine."
           />
           <Milestone
             year="2025"
