@@ -90,9 +90,9 @@ function Journey() {
             body="A self-assigned project documenting the idol-makers' quarter through monsoon, festival and quiet aftermath."
           />
           <Milestone
-            year="2021"
-            title="Maptia editorial feature"
-            body="'One Street, One Year' published online — my first long-form essay reaching readers outside India."
+            year="2025"
+            title="VIVEKA AUDITORIUM, BANGALORE"
+            body="Featured in 'Videotape Film Festival' — a selection of street visual stories documenting urban life."
           />
           <Milestone
             year="2024"
@@ -139,9 +139,9 @@ function Journey() {
               title="Featured Artist · Kolkata International Photo Fest"
             />
             <Award
-              year="2021"
-              title="Editor's Pick · Maptia"
-              note="'One Street, One Year'"
+              year="2025"
+              title="Official Selection · Videotape Film Festival"
+              note="Bangalore"
             />
           </ul>
         </div>
@@ -155,7 +155,7 @@ function Journey() {
             <Award year="2023" title="Better Photography India" note="Portfolio feature" />
             <Award year="2023" title="Method Gallery Journal" note="Essay & images" />
             <Award year="2022" title="Telegraph India · t2" note="Cover story on Kumartuli series" />
-            <Award year="2021" title="Maptia" note="Long-form essay" />
+            <Award year="2025" title="Videotape Film Festival" note="Festival Showcase" />
           </ul>
         </div>
       </div>
