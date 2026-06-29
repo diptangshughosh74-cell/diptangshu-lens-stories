@@ -26,7 +26,7 @@ function Contact() {
 
       <div className="mt-16 grid md:grid-cols-12 gap-12">
         <div className="md:col-span-5 space-y-8">
-          <ContactRow label="Email" value="hello@diptangshu.com" href="mailto:hello@diptangshu.com" />
+          <ContactRow label="Email" value="diptangshughosh74@gmail.com" href="mailto:diptangshughosh74@gmail.com" />
           <ContactRow label="Instagram" value="@diptangshu.frames" href="https://instagram.com" />
           <ContactRow label="Studio" value="College Street, Kolkata 700073" />
           <ContactRow label="Hours" value="Most mornings, after the walk." />
@@ -37,7 +37,7 @@ function Contact() {
           onSubmit={(e) => {
             e.preventDefault();
             const data = new FormData(e.currentTarget);
-            window.location.href = `mailto:hello@diptangshu.com?subject=${encodeURIComponent(
+            window.location.href = `mailto:diptangshughosh74@gmail.com?subject=${encodeURIComponent(
               `Enquiry from ${data.get("name")}`
             )}&body=${encodeURIComponent(String(data.get("message") ?? ""))}`;
           }}
