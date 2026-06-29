@@ -36,7 +36,7 @@ function Journey() {
           </h1>
           <p className="mt-6 text-muted-foreground max-w-xl leading-relaxed">
             A short record of the milestones, recognitions and quiet wins that
-            have shaped my practice — from the first roll of film on Howrah
+            have shaped my practice — from the first frames on Howrah
             Bridge to the exhibitions and features that followed.
           </p>
         </div>
