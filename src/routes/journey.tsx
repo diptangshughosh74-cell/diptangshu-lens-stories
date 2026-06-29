@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import portraitImg from "@/assets/portrait.jpg";
+import portraitAsset from "@/assets/portrait.jpg.asset.json";
 
 export const Route = createFileRoute("/journey")({
   head: () => ({
@@ -16,7 +16,7 @@ export const Route = createFileRoute("/journey")({
         content:
           "Milestones, awards and features from Diptangshu Ghosh's life in street photography.",
       },
-      { property: "og:image", content: portraitImg },
+      { property: "og:image", content: portraitAsset.url },
     ],
   }),
   component: Journey,
