@@ -126,10 +126,10 @@ function Home() {
               <span className="italic text-gold">on patience.</span>
             </h2>
             <p className="mt-6 text-muted-foreground leading-relaxed max-w-xl">
-              Born and based in Kolkata. Self-taught. I work mostly in monochrome
-              with a 35mm lens because it forces me closer — close enough to be
-              accountable to the people I photograph. My pictures are small
-              testimonies to a city that refuses to stand still.
+              Born and based in Kolkata. Self-taught. I work in colour with a 35mm
+              lens because it forces me closer — close enough to be accountable to
+              the people I photograph. My pictures are small testimonies to a city
+              that refuses to stand still.
             </p>
             <Link
               to="/about"
