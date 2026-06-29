@@ -64,9 +64,8 @@ function About() {
 
           <div className="mt-14 grid sm:grid-cols-2 gap-x-10 gap-y-8 border-t border-border/60 pt-10">
             <Stat label="Based in" value="Kolkata, India" />
-            <Stat label="Working since" value="2018" />
-            <Stat label="Camera" value="Leica M · 35mm Summicron" />
-            <Stat label="Film of choice" value="Kodak Tri-X 400" />
+            <Stat label="Working since" value="2019" />
+            <Stat label="Camera" value="Canon EOS 1100D" />
           </div>
 
           <div className="mt-14">
