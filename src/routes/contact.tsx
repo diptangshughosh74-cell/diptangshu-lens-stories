@@ -27,7 +27,7 @@ function Contact() {
       <div className="mt-16 grid md:grid-cols-12 gap-12">
         <div className="md:col-span-5 space-y-8">
           <ContactRow label="Email" value="diptangshughosh74@gmail.com" href="mailto:diptangshughosh74@gmail.com" />
-          <ContactRow label="Instagram" value="@diptangshu.frames" href="https://instagram.com" />
+          <ContactRow label="Instagram" value="@diptangshu03" href="https://www.instagram.com/diptangshu03/" />
           <ContactRow label="Studio" value="College Street, Kolkata 700073" />
           <ContactRow label="Hours" value="Most mornings, after the walk." />
         </div>

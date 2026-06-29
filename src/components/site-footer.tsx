@@ -28,7 +28,7 @@ export function SiteFooter() {
             Elsewhere
           </p>
           <ul className="space-y-2">
-            <li><a href="https://instagram.com" className="hover:text-gold">Instagram</a></li>
+            <li><a href="https://www.instagram.com/diptangshu03/" target="_blank" rel="noreferrer" className="hover:text-gold">Instagram · @diptangshu03</a></li>
             <li><a href="mailto:diptangshughosh74@gmail.com" className="hover:text-gold">diptangshughosh74@gmail.com</a></li>
             <li><span className="text-muted-foreground">Kolkata, India</span></li>
           </ul>
