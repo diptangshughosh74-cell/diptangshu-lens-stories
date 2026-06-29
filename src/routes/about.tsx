@@ -74,7 +74,7 @@ function About() {
               <Exhibit year="2026" title="" venue="GALLERY GOLD, KOLKATA" />
               <Exhibit year="2024" title="My Calcutta In Calcutta 2.0" venue="KOLKATA CENTER FOR CREATIVITY, KOLKATA" />
               <Exhibit year="2024" title="Footprint Film Festival" venue="IGNCA, NEW DELHI" />
-              <Exhibit year="2021" title="One Street, One Year" venue="Online · Maptia Editorial" />
+              <Exhibit year="2025" title="Videotape Film Festival" venue="VIVEKA AUDITORIUM, BANGALORE" />
             </ul>
           </div>
         </div>
