@@ -1,11 +1,13 @@
-import g1 from "@/assets/gallery-1.jpg";
-import g2 from "@/assets/gallery-2.jpg";
-import g3 from "@/assets/gallery-3.jpg";
-import g4 from "@/assets/gallery-4.jpg";
-import g5 from "@/assets/gallery-5.jpg";
-import g6 from "@/assets/gallery-6.jpg";
-import g7 from "@/assets/gallery-7.jpg";
-import g8 from "@/assets/gallery-8.jpg";
+import p1 from "@/assets/photo-1.jpg.asset.json";
+import p2 from "@/assets/photo-2.jpg.asset.json";
+import p3 from "@/assets/photo-3.jpg.asset.json";
+import p4 from "@/assets/photo-4.jpg.asset.json";
+import p5 from "@/assets/photo-5.jpg.asset.json";
+import p6 from "@/assets/photo-6.jpg.asset.json";
+import p7 from "@/assets/photo-7.jpg.asset.json";
+import p8 from "@/assets/photo-8.jpg.asset.json";
+import p9 from "@/assets/photo-9.jpg.asset.json";
+import p10 from "@/assets/photo-10.jpg.asset.json";
 
 export type Photo = {
   src: string;
@@ -17,12 +19,14 @@ export type Photo = {
 };
 
 export const photos: Photo[] = [
-  { src: g1, title: "Cups of Patience", place: "North Kolkata", year: "2024", w: 1024, h: 1280 },
-  { src: g2, title: "Yellow in Motion", place: "Esplanade", year: "2023", w: 1280, h: 896 },
-  { src: g3, title: "Weather of a Face", place: "Kumartuli", year: "2024", w: 1024, h: 1280 },
-  { src: g4, title: "Monsoon Cricket", place: "Bowbazar", year: "2023", w: 1280, h: 960 },
-  { src: g5, title: "Crossing Howrah", place: "Howrah Bridge", year: "2022", w: 1280, h: 1600 },
-  { src: g6, title: "Light of Devotion", place: "Durga Puja", year: "2024", w: 1280, h: 896 },
-  { src: g7, title: "Marigold Hour", place: "Mullick Ghat", year: "2023", w: 1024, h: 1280 },
-  { src: g8, title: "Tramways", place: "BBD Bagh", year: "2022", w: 1280, h: 960 },
+  { src: p5.url, title: "Bougainvillea Lane", place: "North Kolkata", year: "2024", w: 1600, h: 1060 },
+  { src: p3.url, title: "The Wanderer", place: "Kolkata", year: "2024", w: 1066, h: 1600 },
+  { src: p4.url, title: "Local Line", place: "Sealdah", year: "2024", w: 1067, h: 1600 },
+  { src: p6.url, title: "Under Howrah", place: "Mullick Ghat", year: "2024", w: 1060, h: 1600 },
+  { src: p9.url, title: "Painted Quarter", place: "Kumartuli", year: "2024", w: 1600, h: 1060 },
+  { src: p10.url, title: "Faces of Clay", place: "Kumartuli", year: "2024", w: 1600, h: 1060 },
+  { src: p7.url, title: "The Quiet Hour", place: "Central Kolkata", year: "2024", w: 900, h: 1600 },
+  { src: p8.url, title: "Looking Up", place: "Old Calcutta", year: "2024", w: 1060, h: 1600 },
+  { src: p1.url, title: "Sun, Bird, Branch", place: "Outskirts of Kolkata", year: "2023", w: 1537, h: 1023 },
+  { src: p2.url, title: "Bay of Bengal", place: "Digha", year: "2024", w: 1600, h: 1200 },
 ];
