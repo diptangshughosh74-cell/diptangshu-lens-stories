@@ -49,9 +49,10 @@ function About() {
               picture.
             </p>
             <p>
-              I work almost entirely in black and white, on a 35mm lens, because both
-              choices force me to commit to where I am standing. There is no zoom and no
-              second guess; only the breath before the shutter and the long quiet after.
+              I work in colour, on a 35mm lens, because both choices force me to commit
+              to where I am standing. The streets of India are loud with colour — the
+              marigolds, the saris, the painted walls, the yellow taxis — and I want my
+              pictures to carry that noise honestly.
             </p>
             <p>
               My work has been part of community shows in Kolkata and Mumbai, and lives,
