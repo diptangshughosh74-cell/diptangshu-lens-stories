@@ -72,7 +72,7 @@ function About() {
             <p className="text-[11px] uppercase tracking-[0.3em] text-gold mb-5">Selected exhibitions</p>
             <ul className="space-y-4 text-sm">
               <Exhibit year="2026" title="" venue="GALLERY GOLD, KOLKATA" />
-              <Exhibit year="2024" title="My Calcutta In Calcutta 2.0" venue="KOLKATA CENTER FOR CREATIVITY, KOLKATA" />
+              <Exhibit year="2024" title="My Kolkata In Kolkata 2.0" venue="KOLKATA CENTER FOR CREATIVITY, KOLKATA" />
               <Exhibit year="2024" title="Footprint Film Festival" venue="IGNCA, NEW DELHI" />
               <Exhibit year="2025" title="Videotape Film Festival" venue="VIVEKA AUDITORIUM, BANGALORE" />
             </ul>
