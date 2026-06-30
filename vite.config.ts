@@ -13,3 +13,8 @@ export default defineConfig({
     server: { entry: "server" },
   },
 });
+export default defineConfig({
+  base: 'diptangshu-lens-stories', // Add this line right here!
+  plugins: [react()],
+  // ... rest of your existing settings
+})
