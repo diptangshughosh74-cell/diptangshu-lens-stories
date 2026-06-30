@@ -30,8 +30,8 @@ function Contact() {
           <ContactRow label="Instagram" value="@diptangshu03" href="https://www.instagram.com/diptangshu03/" />
           <ContactRow label="Instagram" value="@calcutta_chronicle" href="https://www.instagram.com/calcutta_chronicle/" />
           <ContactRow label="YouTube" value="EkTara Productions" href="https://www.youtube.com/@EkTaraProductions" />
-          <ContactRow label="Studio" value="College Street, Kolkata 700073" />
-          <ContactRow label="Hours" value="Most mornings, after the walk." />
+          <ContactRow label="OFFICE" value="Santoshpur, Kolkata 700075" />
+          <ContactRow label="Hours" value="Any time On Call or Text" />
         </div>
 
         <form
