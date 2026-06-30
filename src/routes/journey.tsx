@@ -134,8 +134,8 @@ function Journey() {
               title="Elec-tra 2026"
             />
             <Award
-              year="2022"
-              title="Featured Artist · Kolkata International Photo Fest"
+              year="2026"
+              title="Featured Artist · I.I.M.U.N Swachh Sagar Project"
             />
             <Award
               year="2025"
@@ -150,8 +150,8 @@ function Journey() {
             Featured in
           </p>
           <ul className="space-y-5">
-            <Award year="2024" title="The Hindu · Sunday Magazine" note="Profile interview" />
-            <Award year="2023" title="Better Photography India" note="Portfolio feature" />
+            <Award year="2026" title="Mahaksh 2026" />
+            <Award year="2024" title="My Kolkata In Kolkata 2.0" />
             <Award year="2026" title="LITFEST '26- Miranda House" note="Essay & images" />
             <Award year="2024" title="Footprint Film Festival" />
             <Award year="2025" title="Videotape Film Festival" note="Festival Showcase" />
