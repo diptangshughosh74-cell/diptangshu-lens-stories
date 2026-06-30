@@ -43,7 +43,7 @@ function About() {
             </p>
             <p>
               I'm Diptangshu Ghosh, a street photographer born and based in Kolkata. For
-              the last seven years I have been walking the same lanes — Kumartuli before
+              the last six years I have been walking the same lanes — Kumartuli before
               sunrise, Mullick Ghat through the flower market, the trams at BBD Bagh,
               College Street in the late afternoon — looking for the city to give me a
               picture.
