@@ -4,9 +4,9 @@ export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
       { title: "Contact — Diptangshu Ghosh" },
-      { name: "description", content: "Get in touch with Diptangshu Ghosh for prints, editorial commissions, exhibitions and street photography workshops in Kolkata." },
+      { name: "description", content: "Get in touch with Diptangshu Ghosh for prints, editorial commissions and exhibitions in Kolkata." },
       { property: "og:title", content: "Contact — Diptangshu Ghosh" },
-      { property: "og:description", content: "Prints, editorial commissions, exhibitions and workshops in Kolkata." },
+      { property: "og:description", content: "Prints, editorial commissions and exhibitions in Kolkata." },
     ],
   }),
   component: Contact,
@@ -20,8 +20,8 @@ function Contact() {
         Let's make <span className="italic text-gold">something quiet</span> together.
       </h1>
       <p className="mt-6 text-muted-foreground max-w-xl leading-relaxed">
-        For print enquiries, editorial commissions, exhibition invitations or
-        workshop bookings — I read every message, and reply within a week.
+        For print enquiries, editorial commissions or exhibition invitations — I
+        read every message, and reply within a week.
       </p>
 
       <div className="mt-16 grid md:grid-cols-12 gap-12">
@@ -30,8 +30,8 @@ function Contact() {
           <ContactRow label="Instagram" value="@diptangshu03" href="https://www.instagram.com/diptangshu03/" />
           <ContactRow label="Instagram" value="@calcutta_chronicle" href="https://www.instagram.com/calcutta_chronicle/" />
           <ContactRow label="YouTube" value="EkTara Productions" href="https://www.youtube.com/@EkTaraProductions" />
-          <ContactRow label="Studio" value="College Street, Kolkata 700073" />
-          <ContactRow label="Hours" value="Most mornings, after the walk." />
+          <ContactRow label="OFFICE" value="Santoshpur, Kolkata 700075" />
+          <ContactRow label="Hours" value="Any time On Call or Text" />
         </div>
 
         <form
