@@ -22,13 +22,7 @@ export default defineConfig({
 import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
 export default defineConfig({
-  tanstackStart: {
-    // Redirect TanStack Start's bundled server entry to src/server.ts (our SSR error wrapper).
-    // nitro/vite builds from this
-    server: { entry: "server" },
-  },
-  // Pass your custom Vite settings inside the 'vite' object as instructed on line 6
-  vite: {
-    base: 'diptangshu-lens-stories',
-  }
-});
+  base: 'diptangshu-lens-stories', // Add this line right here!
+  plugins: [react()],
+  // ... rest of your existing settings
+})
