@@ -4,9 +4,9 @@ export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
       { title: "Contact — Diptangshu Ghosh" },
-      { name: "description", content: "Get in touch with Diptangshu Ghosh for prints, editorial commissions, exhibitions and street photography workshops in Kolkata." },
+      { name: "description", content: "Get in touch with Diptangshu Ghosh for prints, editorial commissions and exhibitions in Kolkata." },
       { property: "og:title", content: "Contact — Diptangshu Ghosh" },
-      { property: "og:description", content: "Prints, editorial commissions, exhibitions and workshops in Kolkata." },
+      { property: "og:description", content: "Prints, editorial commissions and exhibitions in Kolkata." },
     ],
   }),
   component: Contact,
@@ -20,8 +20,8 @@ function Contact() {
         Let's make <span className="italic text-gold">something quiet</span> together.
       </h1>
       <p className="mt-6 text-muted-foreground max-w-xl leading-relaxed">
-        For print enquiries, editorial commissions, exhibition invitations or
-        workshop bookings — I read every message, and reply within a week.
+        For print enquiries, editorial commissions or exhibition invitations — I
+        read every message, and reply within a week.
       </p>
 
       <div className="mt-16 grid md:grid-cols-12 gap-12">
