@@ -21,6 +21,11 @@ jobs:
         run: |
           npm ci
           npm run build
+      - name: Install and Build 🔧
+        working-directory: ./your-subfolder-name # Change this to your actual folder name
+        run: |
+          npm ci
+          npm run build
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
