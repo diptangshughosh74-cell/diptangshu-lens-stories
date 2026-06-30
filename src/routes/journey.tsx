@@ -102,7 +102,7 @@ function Journey() {
           <Milestone
             year="2024"
             title="KOLKATA CENTER FOR CREATIVITY, KOLKATA"
-            body="Selected for 'My Calcutta In Calcutta 2.0', a group exhibition on Indian street life across three cities."
+            body="Selected for 'My Kolkata In Kolkata 2.0', a group exhibition on Indian street life across three cities."
           />
           <Milestone
             year="2026"
