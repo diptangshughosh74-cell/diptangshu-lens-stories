@@ -145,7 +145,7 @@ function Home() {
       {/* CTA */}
       <section className="max-w-5xl mx-auto px-6 md:px-10 mt-32 text-center">
         <div className="h-px gold-rule mb-12 mx-auto w-40" />
-        <p className="text-[11px] uppercase tracking-[0.3em] text-gold mb-6">Commissions · Prints · Workshops</p>
+        <p className="text-[11px] uppercase tracking-[0.3em] text-gold mb-6">Commissions · Prints</p>
         <h2 className="font-display text-4xl md:text-6xl text-balance">
           Have a story <span className="italic text-gold">worth walking for?</span>
         </h2>
