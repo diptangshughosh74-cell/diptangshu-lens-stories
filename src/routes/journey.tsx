@@ -125,14 +125,13 @@ function Journey() {
           </p>
           <ul className="space-y-5">
             <Award
-              year="2024"
-              title="Shortlist · India Street Photography Awards"
+              year="2026"
+              title="Shortlist · Snap India Photography Contest"
               note="Category: Colour street series"
             />
             <Award
-              year="2023"
-              title="Honourable Mention · Indian Photo Festival"
-              note="Hyderabad, IPF Open Call"
+              year="2026"
+              title="Elec-tra 2026"
             />
             <Award
               year="2022"
@@ -153,8 +152,8 @@ function Journey() {
           <ul className="space-y-5">
             <Award year="2024" title="The Hindu · Sunday Magazine" note="Profile interview" />
             <Award year="2023" title="Better Photography India" note="Portfolio feature" />
-            <Award year="2023" title="Method Gallery Journal" note="Essay & images" />
-            <Award year="2022" title="Telegraph India · t2" note="Cover story on Kumartuli series" />
+            <Award year="2026" title="LITFEST '26- Miranda House" note="Essay & images" />
+            <Award year="2024" title="Footprint Film Festival" />
             <Award year="2025" title="Videotape Film Festival" note="Festival Showcase" />
           </ul>
         </div>
