@@ -28,6 +28,8 @@ function Contact() {
         <div className="md:col-span-5 space-y-8">
           <ContactRow label="Email" value="diptangshughosh74@gmail.com" href="mailto:diptangshughosh74@gmail.com" />
           <ContactRow label="Instagram" value="@diptangshu03" href="https://www.instagram.com/diptangshu03/" />
+          <ContactRow label="Instagram" value="@calcutta_chronicle" href="https://www.instagram.com/calcutta_chronicle/" />
+          <ContactRow label="YouTube" value="EkTara Productions" href="https://www.youtube.com/@EkTaraProductions" />
           <ContactRow label="Studio" value="College Street, Kolkata 700073" />
           <ContactRow label="Hours" value="Most mornings, after the walk." />
         </div>

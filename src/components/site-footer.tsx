@@ -29,6 +29,8 @@ export function SiteFooter() {
           </p>
           <ul className="space-y-2">
             <li><a href="https://www.instagram.com/diptangshu03/" target="_blank" rel="noreferrer" className="hover:text-gold">Instagram · @diptangshu03</a></li>
+            <li><a href="https://www.instagram.com/calcutta_chronicle/" target="_blank" rel="noreferrer" className="hover:text-gold">Instagram · @calcutta_chronicle</a></li>
+            <li><a href="https://www.youtube.com/@EkTaraProductions" target="_blank" rel="noreferrer" className="hover:text-gold">YouTube · EkTara Productions</a></li>
             <li><a href="mailto:diptangshughosh74@gmail.com" className="hover:text-gold">diptangshughosh74@gmail.com</a></li>
             <li><span className="text-muted-foreground">Kolkata, India</span></li>
           </ul>
