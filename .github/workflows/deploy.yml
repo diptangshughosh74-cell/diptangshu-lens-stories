@@ -22,7 +22,7 @@ jobs:
           npm ci
           npm run build
       - name: Install and Build 🔧
-        working-directory: ./your-subfolder-name # Change this to your actual folder name
+        working-directory: package-lock.json # Change this to your actual folder name
         run: |
           npm ci
           npm run build
