@@ -109,11 +109,6 @@ function Journey() {
             title="GALLERY GOLD, KOLKATA"
             body="Second solo: 'Montage 4.0' — a five-year retrospective with an accompanying limited-run zine."
           />
-          <Milestone
-            year="2025"
-            title="Workshops & teaching"
-            body="Began running weekend workshops on slow seeing for photographers visiting Kolkata for the first time."
-          />
         </ol>
       </div>
 

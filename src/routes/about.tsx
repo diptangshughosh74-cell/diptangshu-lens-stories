@@ -56,9 +56,7 @@ function About() {
             </p>
             <p>
               My work has been part of community shows in Kolkata and Mumbai, and lives,
-              mostly, in the notebooks and small zines I print between projects. I teach
-              occasional weekend workshops on slow seeing for photographers visiting India
-              for the first time.
+              mostly, in the notebooks and small zines I print between projects.
             </p>
           </div>
 
